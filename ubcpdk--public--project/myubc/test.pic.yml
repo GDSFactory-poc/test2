@@ -20,6 +20,6 @@ placements:
     x: 0.0
     y: 0.0
   instance2:
-    x: 300
+    x: 500
     y: 0.0
     rotation: 180
